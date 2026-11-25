@@ -27,6 +27,12 @@ npm run start
 
 Open http://localhost:3000. For development, `npm run dev` replaces the last two commands.
 
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/19351fb6-b784-4c1a-b501-a98f514d9e53" />
+
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/04b8e9ea-daa7-4d9e-a56d-db3ce5ca9f19" />
+
+
+
 All data and logins are mock, and there are no passwords. Everything listens on this computer only. **Restarting the API resets the data and ends all logins:** sign out and in again.
 
 | User | Role | What differs |
